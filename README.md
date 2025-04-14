@@ -36,8 +36,8 @@ Démo Simulation-Vidéo
 
 ## Dossiers
 - `Captures/` → Dossiers contenant les captures de la cellule et de l'entraînement
-- `video/` → La vidéo de démonstration
-- `programs/` → Les programmes utilisés et exportés en .ls
+- `Video/` → La vidéo de démonstration
+- `PROGRAMS/` → Les programmes utilisés et exportés en .ls
 - `CONVEYOR_SORTING_Rg_2025_04_15_t_00_14_25/` → Vidéo de démonstration en rg3D
 
 ## 🎯 Objectif
