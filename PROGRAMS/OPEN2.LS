@@ -1,0 +1,30 @@
+/PROG  OPEN2
+/ATTR
+OWNER		= MNEDITOR;
+COMMENT		= "";
+PROG_SIZE	= 336;
+CREATE		= DATE 25-04-15  TIME 00:20:02;
+MODIFIED	= DATE 25-04-15  TIME 00:20:02;
+FILE_NAME	= ;
+VERSION		= 0;
+LINE_COUNT	= 7;
+MEMORY_SIZE	= 680;
+PROTECT		= READ_WRITE;
+TCD:  STACK_SIZE	= 0,
+      TASK_PRIORITY	= 50,
+      TIME_SLICE	= 0,
+      BUSY_LAMP_OFF	= 0,
+      ABORT_REQUEST	= 0,
+      PAUSE_REQUEST	= 0;
+DEFAULT_GROUP	= 1,*,*,*,*;
+CONTROL_CODE	= 00000000 00000000;
+/MN
+   1:  !FANUC America Corp. ;
+   2:  !ROBOGUIDE Generated This TPP ;
+   3:  !Run SimPRO.cf to setup frame and ;
+   4:  DO[1]=OFF ;
+   5:  WAIT DI[2]=ON    ;
+   6:  ! Drop ('CYLINDRIERIE') From ('GP ;
+   7:  !WAIT 0.00 (sec) ;
+/POS
+/END
